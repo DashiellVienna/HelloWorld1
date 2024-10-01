@@ -22,7 +22,7 @@
 		C18B2CAF2CABEC7F007BD7E8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C18B2CB22CABEC7F007BD7E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C18B2CB42CABEC80007BD7E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C18B2CB72CABEC80007BD7E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C18B2CB72CABEC80007BD7E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/v.storyboard; sourceTree = "<group>"; };
 		C18B2CB92CABEC80007BD7E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +61,7 @@
 				C18B2CAF2CABEC7F007BD7E8 /* ViewController.swift */,
 				C18B2CB12CABEC7F007BD7E8 /* Main.storyboard */,
 				C18B2CB42CABEC80007BD7E8 /* Assets.xcassets */,
-				C18B2CB62CABEC80007BD7E8 /* LaunchScreen.storyboard */,
+				C18B2CB62CABEC80007BD7E8 /* v.storyboard */,
 				C18B2CB92CABEC80007BD7E8 /* Info.plist */,
 			);
 			path = HelloWorld;
